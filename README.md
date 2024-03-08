@@ -5,7 +5,7 @@ Collection of useful models I've released to the public, most are 1x and targete
 
 
 #### deMPEG-2 Compact (1x_deMPEG-2-Compact): 
-Targeted at cleaing specifcially mpeg2 compression artifacts and noise from SD sources, such as digipaint animation.
+Targeted at cleaing specifcially mpeg2 compression artifacts and noise from SD sources, such as digipaint animation.\
 Model also functions as a reasonable pretrain. 
 
 
